@@ -27,5 +27,5 @@ The data contains the different data related to a food order. The detailed data 
 ## 📎 Files Included
 
 - [foodhub_order.csv](./foodhub_order.csv) – Raw dataset used for analysis  
-- [Foodhub Full Code (HTML)](./Foodhub_Full_Code_Venkat_Vempati.html) – Python analysis notebook exported as HTML (for browser-based viewing) 
+- [Foodhub Full Code (HTML)](./Foodhub_Full_Code_Venkat_Vempati.html) – Python analysis notebook exported as HTML (📁 View raw HTML file – may not render in GitHub due to size limits) 
 - [Foodhub Full Code (PDF)](./Foodhub_Full_Code_Venkat_Vempati.pdf) – Printable PDF version of the full code and output  
